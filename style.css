@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(to right top, #6bd183, #06d1aa, #00cece, #00c7ea, #00bdf9, #5db7fc, #88b0f9, #a9a9f0, #bfa7e9, #d1a7e0, #dea7d6, #e8a9cd);
+    font-family: 'Do Hyeon', sans-serif;
+ 
+}
+
+#heading{
+    width:80%;
+    background-image: "#EFA5F7";
+    box-shadow: 10px 10px 10px #0C0C0B;
+    border:5px double red;
+letter-spacing: 10px;
+padding:20px;
+margin:0px;
+}
+
+#sub-heading{
+    width:70%;
+    background-image: linear-gradient(to right top, #94f099, #88f2af, #82f2c3, #82f2d4, #8af1e2, #85eeee, #86eaf8, #8ee6ff, #93ddff, #a8d2ff, #c4c4ff, #e1b5f6);
+ box-shadow: 5px 5px 5px red;
+ letter-spacing:normal;
+padding:10px;
+}
+
+#objectnames{
+    background-image: linear-gradient(to right top, #42d2f0, #33dae8, #3ce0db, #54e6ca, #72eab8, #9ee79b, #c5e085, #e8d87b, #ffc486, #ffb3a8, #ffaed2, #f0b5f6);
+   color:black;
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.result{
+    background-color: #cc8de6;
+    color:white;
+    font-size:20px;
+    padding:10px;
+    border-radius: 10px;
+}
+
+#footer{
+background-color:#a5edbd;
+color: black;
+position: fixed;
+bottom:0;
+line-height: 2.5;
+width:100%;
+text-align: center;
+font-size: 20px;
+}
+
+canvas{
+   border-radius: 10%;
+   border:5px solid white;
+margin-top: 180px;
+box-shadow: 15px 15px 15px grey;
+}
+
+
+
+
+
